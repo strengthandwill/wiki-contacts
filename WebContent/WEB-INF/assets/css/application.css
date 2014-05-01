@@ -1,0 +1,90 @@
+@CHARSET "ISO-8859-1";
+
+/* logo */
+/* .logo { */
+/* 	height:20px; */
+/* } */
+
+.logo-wiki {
+	color:rgb(146,208,80);
+}
+
+.logo-contacts {
+	color:rgb(0,112,192);
+}
+
+/* main body */
+.main-body {
+	margin: 50px 0px;
+}
+
+.socials {  
+	padding: 10px;  
+}
+
+/* start screen */
+.start-logo {
+	font-size:100px;
+}
+
+.start-text {
+	margin-top:5%;
+}
+
+.start-info {
+	font-size:10px;
+}
+
+/* search divs */
+#search_start {
+	width:50%;
+	margin-top:10%;
+	margin-left:auto;
+	margin-right:auto;	
+}
+
+#search_start div, #search_start p {
+	text-align:center;
+}
+
+/* thumbnail */
+div.thumbnail:hover {
+	border-color: #0088cc;
+	-webkit-box-shadow: 0 1px 4px rgba(0, 105, 214, 0.25);
+	-moz-box-shadow: 0 1px 4px rgba(0, 105, 214, 0.25);
+	box-shadow: 0 1px 4px rgba(0, 105, 214, 0.25);
+}
+
+.thumbnail img {
+	width:80px;
+	height:80px;
+	margin:10px;
+}
+
+.contact-content {
+	width:230px;
+	padding-left:20px;
+	word-wrap:break-word;
+}
+
+.contact-view .contact-image img, .contact-edit .contact-image-upload img {
+	width:100px;
+	height:100px;
+}
+
+#search_results .tags{
+	font-size:12px;
+}
+
+.contact-edit .contact-tags .tags {
+	padding: 2px;
+}
+
+/* loading modal */
+.contact-loading .progress {
+	margin-bottom: 9px;
+}
+
+.contact-loading .progress .bar {
+	width: 100%;
+}
