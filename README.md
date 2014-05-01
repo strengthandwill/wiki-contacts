@@ -24,7 +24,7 @@ The web application is built using the following frameworks:
 
 ## License
 
-[Wiki-Contacts] is released under version 2.0 of the [Apache License].
+Wiki-Contacts is released under version 2.0 of the [Apache License].
 
 
 [Wiki-Contacts]: http://wiki-contacts.com
