@@ -1,6 +1,6 @@
 # Wiki-Contacts
 
-[Wiki-Contacts] is a web application built to demonstrate the basic CRUD operations on a Contact object via a browser client.
+[Wiki-Contacts] is a web application that demonstrates the basic CRUD operations on a Contact object via a browser client.
 
 The web application is built using the following frameworks:
 
